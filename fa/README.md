@@ -1,0 +1,18 @@
+Audio versions of stories from the [African Storybook Project](http://africanstorybook.org) read aloud in Persian.
+
+Text versions of the stories can be found in the [Global ASP](https://github.com/global-asp/global-asp) repository.
+
+Index # | Story | Author | License | Read by
+------- | ----- | ------ | ------- | -------
+[0007](https://github.com/global-asp/gasp-audio/tree/master/fa/0007_در-جستجوی-آب) | [در جستجوی آب](https://github.com/global-asp/global-asp/blob/master/fa/0007_در-جستجوی-آب.md) | Augustine Napagi | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Saeed Nazari
+[0008](https://github.com/global-asp/gasp-audio/tree/master/fa/0008_چه-کار-داری-میکنی‌) | [چه کار داری میکنی‌؟](https://github.com/global-asp/global-asp/blob/master/fa/0008_چه-کار-داری-میکنی‌.md) | Nina Orange | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Saeed Nazari
+[0049](https://github.com/global-asp/gasp-audio/tree/master/fa/0049_رنگین-کمان) | [رنگین کمان](https://github.com/global-asp/global-asp/blob/master/fa/0049_رنگین-کمان.md) | Ursula Nafula | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Saeed Nazari
+[0093](https://github.com/global-asp/gasp-audio/tree/master/fa/0093_پسر-بچه-من) | [پسر بچه من](https://github.com/global-asp/global-asp/blob/master/fa/0093_پسر-بچه-من.md) | Cissy Namugerwa, Nanyonga Allen | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Saeed Nazari
+[0127](https://github.com/global-asp/gasp-audio/tree/master/fa/0127_بازی‌های-گوناگون) | [بازی‌های گوناگون](https://github.com/global-asp/global-asp/blob/master/fa/0127_بازی‌های-گوناگون.md) | Ajarubo Philiam | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Saeed Nazari
+[0130](https://github.com/global-asp/gasp-audio/tree/master/fa/0130_مادر-بزرگ-من) | [مادر بزرگ من](https://github.com/global-asp/global-asp/blob/master/fa/0130_مادر-بزرگ-من.md) | Augustine Napagi | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Saeed Nazari
+[0192](https://github.com/global-asp/gasp-audio/tree/master/fa/0192_امید-مانند-ساندویچ-کره-بادام-زمینی-است) | [امید مانند ساندویچ کره بادام زمینی است](https://github.com/global-asp/global-asp/blob/master/fa/0192_امید-مانند-ساندویچ-کره-بادام-زمینی-است.md) | Johanna Kistner | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Saeed Nazari
+[0223](https://github.com/global-asp/gasp-audio/tree/master/fa/0223_حیوانات-اهلی) | [حیوانات اهلی](https://github.com/global-asp/global-asp/blob/master/fa/0223_حیوانات-اهلی.md) | Jenny Katz | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/) | Saeed Nazari
+[0231](https://github.com/global-asp/gasp-audio/tree/master/fa/0231_کتاب-وضعیت-آب-و-هوا) | [کتاب وضعیت آب و هوا](https://github.com/global-asp/global-asp/blob/master/fa/0231_کتاب-وضعیت-آب-و-هوا.md) | Clare Verbeek, Thembani Dladla, Zanele Buthelezi | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/) | Saeed Nazari
+[0253](https://github.com/global-asp/gasp-audio/tree/master/fa/0253_کتاب-عکس-دار) | [کتاب عکس دار](https://github.com/global-asp/global-asp/blob/master/fa/0253_کتاب-عکس-دار.md) | Oku Modesto | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Saeed Nazari
+[0302](https://github.com/global-asp/gasp-audio/tree/master/fa/0302_آتش) | [آتش](https://github.com/global-asp/global-asp/blob/master/fa/0302_آتش.md) | Deborah Namugosa, Beatrice Nabune, Alison Tukei, Rose Sabano | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Saeed Nazari
+[0309](https://github.com/global-asp/gasp-audio/tree/master/fa/0309_کوچک-و-بزرگ) | [کوچک و بزرگ](https://github.com/global-asp/global-asp/blob/master/fa/0309_کوچک-و-بزرگ.md) | Carole Bloch | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/) | Saeed Nazari
