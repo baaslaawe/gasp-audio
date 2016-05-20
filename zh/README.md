@@ -1,0 +1,21 @@
+Audio versions of stories from the [African Storybook Project](http://africanstorybook.org) read aloud in Chinese (Mandarin).
+
+Text versions of the stories can be found in the [Global ASP](https://github.com/global-asp/global-asp) repository.
+
+Index # | Story | Author | License | Read by
+------- | ----- | ------ | ------- | -------
+[0001](https://github.com/global-asp/gasp-audio/tree/master/zh/0001_一个很高的人) | [一个很高的人](https://github.com/global-asp/global-asp/blob/master/zh/0001_一个很高的人.md) | Cornelius Gulere | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Xingxing (Winny) Wang
+[0002](https://github.com/global-asp/gasp-audio/tree/master/zh/0002_看看农场动物) | [看看农场动物](https://github.com/global-asp/global-asp/blob/master/zh/0002_看看农场动物.md) | Jenny Katz | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/) | Xingxing (Winny) Wang
+[0003](https://github.com/global-asp/gasp-audio/tree/master/zh/0003_校服) | [校服](https://github.com/global-asp/global-asp/blob/master/zh/0003_校服.md) | Clare Verbeek, Thembani Dladla, Zanele Buthelezi | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/) | Xingxing (Winny) Wang
+[0004](https://github.com/global-asp/gasp-audio/tree/master/zh/0004_山羊、野狗、和水牛) | [山羊、野狗、和水牛](https://github.com/global-asp/global-asp/blob/master/zh/0004_山羊、野狗、和水牛.md) | Fabian Wakholi | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Xingxing (Winny) Wang
+[0006](https://github.com/global-asp/gasp-audio/tree/master/zh/0006_阿南西和智慧) | [阿南西和智慧](https://github.com/global-asp/global-asp/blob/master/zh/0006_阿南西和智慧.md) | Ghanaian folktale | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Xingxing (Winny) Wang
+[0007](https://github.com/global-asp/gasp-audio/tree/master/zh/0007_找水) | [找水](https://github.com/global-asp/global-asp/blob/master/zh/0007_找水.md) | Augustine Napagi | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Xingxing (Winny) Wang
+[0008](https://github.com/global-asp/gasp-audio/tree/master/zh/0008_你在做什么) | [你在做什么？](https://github.com/global-asp/global-asp/blob/master/zh/0008_你在做什么.md) | Nina Orange | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Xingxing (Winny) Wang
+[0009](https://github.com/global-asp/gasp-audio/tree/master/zh/0009_我的小猫猫在哪儿) | [我的小猫猫在哪儿？](https://github.com/global-asp/global-asp/blob/master/zh/0009_我的小猫猫在哪儿.md) | Clare Verbeek, Thembani Dladla, Zanele Buthelezi | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/) | Xingxing (Winny) Wang
+[0030](https://github.com/global-asp/gasp-audio/tree/master/zh/0030_感情) | [感情](https://github.com/global-asp/global-asp/blob/master/zh/0030_感情.md) | Clare Verbeek, Thembani Dladla, Zanele Buthelezi | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/) | Xingxing (Winny) Wang
+[0049](https://github.com/global-asp/gasp-audio/tree/master/zh/0049_彩虹) | [彩虹](https://github.com/global-asp/global-asp/blob/master/zh/0049_彩虹.md) | Ursula Nafula | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Xingxing (Winny) Wang
+[0053](https://github.com/global-asp/gasp-audio/tree/master/zh/0053_这是我) | [这是我](https://github.com/global-asp/global-asp/blob/master/zh/0053_这是我.md) | Clare Verbeek, Thembani Dladla, Zanele Buthelezi | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/) | Xingxing (Winny) Wang
+[0057](https://github.com/global-asp/gasp-audio/tree/master/zh/0057_萨内在商店) | [萨内在商店](https://github.com/global-asp/global-asp/blob/master/zh/0057_萨内在商店.md) | Alice Kapolondo | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Xingxing (Winny) Wang
+[0064](https://github.com/global-asp/gasp-audio/tree/master/zh/0064_乔伊上学) | [乔伊上学](https://github.com/global-asp/global-asp/blob/master/zh/0064_乔伊上学.md) | Augustine Napagi | [CC-BY](https://creativecommons.org/licenses/by/3.0/) | Xingxing (Winny) Wang
+[0067](https://github.com/global-asp/gasp-audio/tree/master/zh/0067_做菜) | [做菜](https://github.com/global-asp/global-asp/blob/master/zh/0067_做菜.md) | Clare Verbeek, Thembani Dladla, Zanele Buthelezi | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/) | Xingxing (Winny) Wang
+[0231](https://github.com/global-asp/gasp-audio/tree/master/zh/0231_气象书) | [气象书](https://github.com/global-asp/global-asp/blob/master/zh/0231_气象书.md) | Clare Verbeek, Thembani Dladla, Zanele Buthelezi | [CC-BY-NC](https://creativecommons.org/licenses/by-nc/3.0/) | Xingxing (Winny) Wang
