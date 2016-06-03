@@ -11,6 +11,13 @@ Full audio of each story is available in mp3 and ogg format in the root of each 
 
 In addition, pre-split tracks in both mp3 and ogg format can be found in `mp3` and `ogg` folders for each story. Each track represents one page of the storybook.
 
+## Demos
+
+The following links show examples of different ways that the story audio has been put to use:
+
+* [Audio Slideshows](https://global-asp.github.io/audio)
+* [Storybook Jukebox](https://global-asp.github.io/jukebox)
+
 ## License
 All audio in this repository is released under a Creative Commons license, either CC-BY or CC-BY-NC, in accordance with the license of the original stories from which they were extracted. A full list of source stories for the images [can be found here](https://global-asp.github.io/stories/master.html).
 
